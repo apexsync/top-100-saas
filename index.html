@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Top 100 AI SaaS Apps: US-Dominant, India-Untapped</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #13131a;
+    --surface2: #1c1c27;
+    --border: #2a2a3a;
+    --accent: #e8ff47;
+    --accent2: #47c8ff;
+    --accent3: #ff6b47;
+    --text: #f0f0f8;
+    --muted: #7a7a9a;
+    --tag-bg: #1e1e2e;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Noise overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.4;
+  }
+
+  header {
+    position: relative;
+    padding: 60px 40px 40px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(135deg, #0d0d18 0%, #0a0a0f 50%, #0f0d18 100%);
+    overflow: hidden;
+  }
+
+  header::after {
+    content: '';
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 400px; height: 400px;
+    background: radial-gradient(circle, rgba(232,255,71,0.07) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .header-label {
+    display: inline-block;
+    background: var(--accent);
+    color: #0a0a0f;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(32px, 5vw, 64px);
+    font-weight: 900;
+    line-height: 1.1;
+    max-width: 780px;
+    color: var(--text);
+    margin-bottom: 16px;
+  }
+
+  h1 span { color: var(--accent); }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 13px;
+    max-width: 560px;
+    line-height: 1.7;
+    letter-spacing: 0.3px;
+  }
+
+  .stats-bar {
+    display: flex;
+    gap: 32px;
+    margin-top: 32px;
+    flex-wrap: wrap;
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .stat-num {
+    font-family: 'Syne', sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    color: var(--accent);
+  }
+
+  .stat-label {
+    font-size: 10px;
+    color: var(--muted);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  /* Controls */
+  .controls {
+    padding: 24px 40px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    backdrop-filter: blur(12px);
+  }
+
+  .filter-btn {
+    background: var(--tag-bg);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 1px;
+    padding: 7px 16px;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-transform: uppercase;
+  }
+
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--accent);
+    color: #0a0a0f;
+    border-color: var(--accent);
+  }
+
+  .search-wrap {
+    margin-left: auto;
+    position: relative;
+  }
+
+  .search-wrap input {
+    background: var(--tag-bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    padding: 8px 16px 8px 36px;
+    width: 220px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .search-wrap input:focus { border-color: var(--accent2); }
+
+  .search-wrap::before {
+    content: '⌕';
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    font-size: 16px;
+  }
+
+  /* Table */
+  .table-wrap {
+    padding: 0 40px 60px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 24px;
+  }
+
+  thead th {
+    text-align: left;
+    font-size: 9px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    font-weight: 500;
+  }
+
+  tbody tr {
+    border-bottom: 1px solid rgba(42,42,58,0.6);
+    transition: background 0.15s;
+    animation: fadeIn 0.3s ease both;
+  }
+
+  tbody tr:hover { background: var(--surface2); }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  td {
+    padding: 14px 16px;
+    vertical-align: middle;
+  }
+
+  .rank {
+    font-size: 11px;
+    color: var(--muted);
+    font-weight: 500;
+    width: 40px;
+  }
+
+  .app-name {
+    font-family: 'Syne', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .app-desc {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 3px;
+    line-height: 1.5;
+    max-width: 320px;
+  }
+
+  .category-tag {
+    display: inline-block;
+    font-size: 9px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 3px 9px;
+    border: 1px solid;
+    font-weight: 500;
+  }
+
+  .cat-marketing { color: #ff6b47; border-color: rgba(255,107,71,0.35); background: rgba(255,107,71,0.08); }
+  .cat-sales { color: #47c8ff; border-color: rgba(71,200,255,0.35); background: rgba(71,200,255,0.08); }
+  .cat-productivity { color: #e8ff47; border-color: rgba(232,255,71,0.35); background: rgba(232,255,71,0.08); }
+  .cat-legal { color: #c47bff; border-color: rgba(196,123,255,0.35); background: rgba(196,123,255,0.08); }
+  .cat-hr { color: #ffb347; border-color: rgba(255,179,71,0.35); background: rgba(255,179,71,0.08); }
+  .cat-finance { color: #47ffb3; border-color: rgba(71,255,179,0.35); background: rgba(71,255,179,0.08); }
+  .cat-analytics { color: #ff4787; border-color: rgba(255,71,135,0.35); background: rgba(255,71,135,0.08); }
+  .cat-devops { color: #47ff8a; border-color: rgba(71,255,138,0.35); background: rgba(71,255,138,0.08); }
+  .cat-cx { color: #ffef47; border-color: rgba(255,239,71,0.35); background: rgba(255,239,71,0.08); }
+  .cat-design { color: #ff47c8; border-color: rgba(255,71,200,0.35); background: rgba(255,71,200,0.08); }
+
+  .success-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .bar-track {
+    width: 80px;
+    height: 4px;
+    background: var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .bar-fill {
+    height: 100%;
+    border-radius: 2px;
+    background: var(--accent);
+    transition: width 0.6s ease;
+  }
+
+  .bar-fill.high { background: #47ffb3; }
+  .bar-fill.very-high { background: var(--accent); }
+
+  .score-text {
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--accent);
+    min-width: 32px;
+  }
+
+  .india-badge {
+    font-size: 9px;
+    letter-spacing: 1px;
+    padding: 3px 8px;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .badge-low { background: rgba(255,107,71,0.15); color: #ff6b47; border: 1px solid rgba(255,107,71,0.3); }
+  .badge-minimal { background: rgba(196,123,255,0.12); color: #c47bff; border: 1px solid rgba(196,123,255,0.25); }
+  .badge-emerging { background: rgba(71,200,255,0.12); color: #47c8ff; border: 1px solid rgba(71,200,255,0.25); }
+
+  .count-info {
+    font-size: 11px;
+    color: var(--muted);
+    padding: 12px 40px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+
+  .count-info span { color: var(--accent); font-weight: 600; }
+
+  .hidden { display: none; }
+
+  /* Legend */
+  .legend {
+    padding: 20px 40px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 10px; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; }
+  .legend-dot { width: 8px; height: 8px; flex-shrink: 0; }
+  .dot-low { background: #ff6b47; }
+  .dot-minimal { background: #c47bff; }
+  .dot-emerging { background: #47c8ff; }
+
+  footer {
+    text-align: center;
+    padding: 40px;
+    color: var(--muted);
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    border-top: 1px solid var(--border);
+  }
+
+  @media (max-width: 768px) {
+    header, .controls, .table-wrap, .legend, .count-info { padding-left: 20px; padding-right: 20px; }
+    .app-desc { display: none; }
+    .bar-track { width: 50px; }
+    h1 { font-size: 28px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-label">Market Intelligence · 2025</div>
+  <h1>Top 100 AI SaaS Apps<br><span>US-Dominant,</span> India-Untapped</h1>
+  <p class="subtitle">High-success AI SaaS platforms with massive US adoption but minimal penetration in the Indian market — representing a $62B+ opportunity gap by 2032.</p>
+  <div class="stats-bar">
+    <div class="stat"><span class="stat-num">100</span><span class="stat-label">Apps Ranked</span></div>
+    <div class="stat"><span class="stat-num">10</span><span class="stat-label">Categories</span></div>
+    <div class="stat"><span class="stat-num">$644B</span><span class="stat-label">AI SaaS Market 2025</span></div>
+    <div class="stat"><span class="stat-num">~18%</span><span class="stat-label">India Avg. Adoption</span></div>
+  </div>
+</header>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot dot-low"></div> Low India Adoption (&lt;10%)</div>
+  <div class="legend-item"><div class="legend-dot dot-minimal"></div> Minimal India Adoption (10–20%)</div>
+  <div class="legend-item"><div class="legend-dot dot-emerging"></div> Emerging in India (20–30%)</div>
+</div>
+
+<div class="controls">
+  <button class="filter-btn active" onclick="filter('all', this)">All</button>
+  <button class="filter-btn" onclick="filter('marketing', this)">Marketing</button>
+  <button class="filter-btn" onclick="filter('sales', this)">Sales</button>
+  <button class="filter-btn" onclick="filter('productivity', this)">Productivity</button>
+  <button class="filter-btn" onclick="filter('legal', this)">Legal</button>
+  <button class="filter-btn" onclick="filter('hr', this)">HR</button>
+  <button class="filter-btn" onclick="filter('finance', this)">Finance</button>
+  <button class="filter-btn" onclick="filter('analytics', this)">Analytics</button>
+  <button class="filter-btn" onclick="filter('devops', this)">DevOps</button>
+  <button class="filter-btn" onclick="filter('cx', this)">CX</button>
+  <button class="filter-btn" onclick="filter('design', this)">Design</button>
+  <div class="search-wrap">
+    <input type="text" id="searchInput" placeholder="Search apps..." oninput="search(this.value)">
+  </div>
+</div>
+
+<div class="count-info">Showing <span id="countSpan">100</span> of 100 apps</div>
+
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>App / Platform</th>
+      <th>Category</th>
+      <th>US Success Rate</th>
+      <th>India Adoption</th>
+    </tr>
+  </thead>
+  <tbody id="tableBody">
+  </tbody>
+</table>
+</div>
+
+<footer>Data compiled from G2, Gartner, Elevation Capital, NASSCOM & industry reports · March 2025</footer>
+
+<script>
+const apps = [
+  // MARKETING (15)
+  { rank:1, name:"Jasper AI", desc:"AI content platform for enterprise marketing teams", cat:"marketing", catLabel:"Marketing", us:96, india:"Low", indiaBadge:"badge-low" },
+  { rank:2, name:"Copy.ai", desc:"AI copywriting for ads, emails, landing pages", cat:"marketing", catLabel:"Marketing", us:93, india:"Low", indiaBadge:"badge-low" },
+  { rank:3, name:"Persado", desc:"AI-generated emotional language for marketing", cat:"marketing", catLabel:"Marketing", us:91, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:4, name:"Anyword", desc:"Predictive performance copywriting AI", cat:"marketing", catLabel:"Marketing", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:5, name:"Smartly.io", desc:"AI-powered social media advertising platform", cat:"marketing", catLabel:"Marketing", us:90, india:"Low", indiaBadge:"badge-low" },
+  { rank:6, name:"Drift (Salesloft)", desc:"Conversational marketing & AI buyer engagement", cat:"marketing", catLabel:"Marketing", us:89, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:7, name:"Sprinklr", desc:"Unified customer experience AI for enterprises", cat:"marketing", catLabel:"Marketing", us:87, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:8, name:"Phrasee", desc:"AI brand language optimization for email/push", cat:"marketing", catLabel:"Marketing", us:84, india:"Low", indiaBadge:"badge-low" },
+  { rank:9, name:"Mutiny", desc:"AI-powered website personalization for B2B", cat:"marketing", catLabel:"Marketing", us:86, india:"Low", indiaBadge:"badge-low" },
+  { rank:10, name:"Lately AI", desc:"Social media content repurposing and scheduling", cat:"marketing", catLabel:"Marketing", us:82, india:"Low", indiaBadge:"badge-low" },
+  { rank:11, name:"Crayon", desc:"AI competitive intelligence platform", cat:"marketing", catLabel:"Marketing", us:85, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:12, name:"Pathmatics", desc:"AI-powered digital ad intelligence", cat:"marketing", catLabel:"Marketing", us:83, india:"Low", indiaBadge:"badge-low" },
+  { rank:13, name:"Stackadapt", desc:"Programmatic AI advertising platform", cat:"marketing", catLabel:"Marketing", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:14, name:"Contentsquare", desc:"AI digital experience analytics & optimization", cat:"marketing", catLabel:"Marketing", us:87, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:15, name:"Zeta Global", desc:"AI-powered marketing cloud platform", cat:"marketing", catLabel:"Marketing", us:85, india:"Low", indiaBadge:"badge-low" },
+
+  // SALES (12)
+  { rank:16, name:"Gong.io", desc:"AI revenue intelligence for sales teams", cat:"sales", catLabel:"Sales", us:95, india:"Low", indiaBadge:"badge-low" },
+  { rank:17, name:"Chorus.ai (ZoomInfo)", desc:"Conversation intelligence for sales coaching", cat:"sales", catLabel:"Sales", us:93, india:"Low", indiaBadge:"badge-low" },
+  { rank:18, name:"Outreach.io", desc:"AI-powered sales engagement platform", cat:"sales", catLabel:"Sales", us:92, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:19, name:"Clari", desc:"AI revenue operations and forecasting", cat:"sales", catLabel:"Sales", us:91, india:"Low", indiaBadge:"badge-low" },
+  { rank:20, name:"Apollo.io", desc:"AI sales intelligence and prospecting", cat:"sales", catLabel:"Sales", us:90, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:21, name:"Salesloft", desc:"AI-driven sales engagement and pipeline management", cat:"sales", catLabel:"Sales", us:89, india:"Low", indiaBadge:"badge-low" },
+  { rank:22, name:"People.ai", desc:"AI revenue productivity platform", cat:"sales", catLabel:"Sales", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:23, name:"Aviso AI", desc:"AI-guided selling and deal management", cat:"sales", catLabel:"Sales", us:85, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:24, name:"Attention.com", desc:"AI sales assistant for call coaching", cat:"sales", catLabel:"Sales", us:83, india:"Low", indiaBadge:"badge-low" },
+  { rank:25, name:"Momentum.io", desc:"AI-driven sales signal capture from conversations", cat:"sales", catLabel:"Sales", us:82, india:"Low", indiaBadge:"badge-low" },
+  { rank:26, name:"Lative", desc:"AI sales planning and performance intelligence", cat:"sales", catLabel:"Sales", us:80, india:"Low", indiaBadge:"badge-low" },
+  { rank:27, name:"Kaia.ai", desc:"Real-time AI meeting assistant for sales", cat:"sales", catLabel:"Sales", us:81, india:"Low", indiaBadge:"badge-low" },
+
+  // PRODUCTIVITY (12)
+  { rank:28, name:"Notion AI", desc:"AI writing, summarizing & knowledge management", cat:"productivity", catLabel:"Productivity", us:94, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:29, name:"Otter.ai", desc:"AI meeting transcription and notes", cat:"productivity", catLabel:"Productivity", us:92, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:30, name:"Fireflies.ai", desc:"AI meeting assistant with search & collaboration", cat:"productivity", catLabel:"Productivity", us:90, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:31, name:"Mem.ai", desc:"AI-powered personal knowledge management", cat:"productivity", catLabel:"Productivity", us:85, india:"Low", indiaBadge:"badge-low" },
+  { rank:32, name:"Reclaim.ai", desc:"AI calendar optimization for time management", cat:"productivity", catLabel:"Productivity", us:84, india:"Low", indiaBadge:"badge-low" },
+  { rank:33, name:"Motion", desc:"AI project & task scheduling automation", cat:"productivity", catLabel:"Productivity", us:86, india:"Low", indiaBadge:"badge-low" },
+  { rank:34, name:"Taskade", desc:"AI-powered task management and workspaces", cat:"productivity", catLabel:"Productivity", us:83, india:"Low", indiaBadge:"badge-low" },
+  { rank:35, name:"Coda AI", desc:"AI docs and workflows in one platform", cat:"productivity", catLabel:"Productivity", us:87, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:36, name:"Grain", desc:"AI meeting recording with highlights and insights", cat:"productivity", catLabel:"Productivity", us:82, india:"Low", indiaBadge:"badge-low" },
+  { rank:37, name:"Read AI", desc:"AI meeting summaries, transcripts & engagement scores", cat:"productivity", catLabel:"Productivity", us:81, india:"Low", indiaBadge:"badge-low" },
+  { rank:38, name:"Superhuman AI", desc:"AI email productivity and inbox management", cat:"productivity", catLabel:"Productivity", us:89, india:"Low", indiaBadge:"badge-low" },
+  { rank:39, name:"Rays by Slack AI", desc:"AI-powered search and summaries in Slack", cat:"productivity", catLabel:"Productivity", us:91, india:"Minimal", indiaBadge:"badge-minimal" },
+
+  // LEGAL (8)
+  { rank:40, name:"Ironclad", desc:"AI contract lifecycle management for enterprises", cat:"legal", catLabel:"Legal", us:92, india:"Low", indiaBadge:"badge-low" },
+  { rank:41, name:"Harvey AI", desc:"AI legal research and document drafting", cat:"legal", catLabel:"Legal", us:90, india:"Low", indiaBadge:"badge-low" },
+  { rank:42, name:"Kira Systems", desc:"AI contract review and due diligence", cat:"legal", catLabel:"Legal", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:43, name:"Luminance", desc:"AI-powered legal document analysis", cat:"legal", catLabel:"Legal", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:44, name:"Clio (AI features)", desc:"AI legal practice management software", cat:"legal", catLabel:"Legal", us:91, india:"Low", indiaBadge:"badge-low" },
+  { rank:45, name:"LexisNexis AI", desc:"AI legal research and analytics platform", cat:"legal", catLabel:"Legal", us:93, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:46, name:"Disco", desc:"AI-powered legal discovery and review", cat:"legal", catLabel:"Legal", us:86, india:"Low", indiaBadge:"badge-low" },
+  { rank:47, name:"Spellbook", desc:"AI contract drafting and review for lawyers", cat:"legal", catLabel:"Legal", us:84, india:"Low", indiaBadge:"badge-low" },
+
+  // HR (10)
+  { rank:48, name:"Eightfold AI", desc:"AI talent intelligence platform", cat:"hr", catLabel:"HR & Talent", us:91, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:49, name:"HireVue", desc:"AI video interviewing and hiring assessments", cat:"hr", catLabel:"HR & Talent", us:89, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:50, name:"Beamery", desc:"AI talent lifecycle management", cat:"hr", catLabel:"HR & Talent", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:51, name:"Phenom AI", desc:"AI talent experience platform", cat:"hr", catLabel:"HR & Talent", us:88, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:52, name:"Lattice AI", desc:"AI performance management and people analytics", cat:"hr", catLabel:"HR & Talent", us:90, india:"Low", indiaBadge:"badge-low" },
+  { rank:53, name:"Leapsome AI", desc:"AI employee engagement and performance platform", cat:"hr", catLabel:"HR & Talent", us:86, india:"Low", indiaBadge:"badge-low" },
+  { rank:54, name:"Visier", desc:"AI people analytics and workforce intelligence", cat:"hr", catLabel:"HR & Talent", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:55, name:"Pymetrics", desc:"AI-based soft skills assessment for hiring", cat:"hr", catLabel:"HR & Talent", us:85, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:56, name:"Paradox (Olivia)", desc:"AI recruiting assistant chatbot", cat:"hr", catLabel:"HR & Talent", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:57, name:"Workday AI", desc:"AI-embedded HR and finance enterprise suite", cat:"hr", catLabel:"HR & Talent", us:92, india:"Emerging", indiaBadge:"badge-emerging" },
+
+  // FINANCE (10)
+  { rank:58, name:"Cube", desc:"AI-powered FP&A automation for finance teams", cat:"finance", catLabel:"Finance", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:59, name:"Vena AI", desc:"AI financial planning and analytics", cat:"finance", catLabel:"Finance", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:60, name:"Planful AI", desc:"AI continuous financial planning platform", cat:"finance", catLabel:"Finance", us:86, india:"Low", indiaBadge:"badge-low" },
+  { rank:61, name:"Mosaic Tech", desc:"AI strategic finance platform for growth companies", cat:"finance", catLabel:"Finance", us:85, india:"Low", indiaBadge:"badge-low" },
+  { rank:62, name:"Ramp AI", desc:"AI spend management and corporate cards", cat:"finance", catLabel:"Finance", us:91, india:"Low", indiaBadge:"badge-low" },
+  { rank:63, name:"Brex AI", desc:"AI finance platform for startups and enterprises", cat:"finance", catLabel:"Finance", us:90, india:"Low", indiaBadge:"badge-low" },
+  { rank:64, name:"DataRails", desc:"AI FP&A automation in Excel/Google Sheets", cat:"finance", catLabel:"Finance", us:84, india:"Low", indiaBadge:"badge-low" },
+  { rank:65, name:"Trullion", desc:"AI accounting automation and audit management", cat:"finance", catLabel:"Finance", us:83, india:"Low", indiaBadge:"badge-low" },
+  { rank:66, name:"Stampli", desc:"AI-driven accounts payable automation", cat:"finance", catLabel:"Finance", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:67, name:"Numeric", desc:"AI-powered accounting close and reporting", cat:"finance", catLabel:"Finance", us:82, india:"Low", indiaBadge:"badge-low" },
+
+  // ANALYTICS (10)
+  { rank:68, name:"Alteryx AI", desc:"AI-powered data analytics and automation", cat:"analytics", catLabel:"Analytics", us:91, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:69, name:"Tableau AI (Pulse)", desc:"AI-embedded business intelligence", cat:"analytics", catLabel:"Analytics", us:92, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:70, name:"ThoughtSpot", desc:"AI search and analytics platform", cat:"analytics", catLabel:"Analytics", us:90, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:71, name:"Sisense AI", desc:"AI-powered embedded analytics platform", cat:"analytics", catLabel:"Analytics", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:72, name:"Domo", desc:"AI business intelligence for enterprises", cat:"analytics", catLabel:"Analytics", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:73, name:"Pecan AI", desc:"Predictive AI analytics for business users", cat:"analytics", catLabel:"Analytics", us:85, india:"Low", indiaBadge:"badge-low" },
+  { rank:74, name:"Amplitude AI", desc:"AI product analytics and user behavior", cat:"analytics", catLabel:"Analytics", us:91, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:75, name:"Mixpanel AI", desc:"AI-powered event analytics for products", cat:"analytics", catLabel:"Analytics", us:89, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:76, name:"Heap AI", desc:"AI autocapture analytics for digital products", cat:"analytics", catLabel:"Analytics", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:77, name:"Sigma Computing", desc:"AI cloud analytics for business teams", cat:"analytics", catLabel:"Analytics", us:86, india:"Low", indiaBadge:"badge-low" },
+
+  // DEVOPS / ENGINEERING (10)
+  { rank:78, name:"GitHub Copilot", desc:"AI code completion and generation for developers", cat:"devops", catLabel:"DevOps", us:95, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:79, name:"Tabnine", desc:"AI code completion across IDEs", cat:"devops", catLabel:"DevOps", us:90, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:80, name:"Harness AI", desc:"AI software delivery and DevOps automation", cat:"devops", catLabel:"DevOps", us:89, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:81, name:"LinearB", desc:"AI engineering metrics and workflow automation", cat:"devops", catLabel:"DevOps", us:86, india:"Low", indiaBadge:"badge-low" },
+  { rank:82, name:"Swimm AI", desc:"AI documentation for engineering codebases", cat:"devops", catLabel:"DevOps", us:83, india:"Low", indiaBadge:"badge-low" },
+  { rank:83, name:"Mobb.ai", desc:"AI automated vulnerability remediation", cat:"devops", catLabel:"DevOps", us:82, india:"Low", indiaBadge:"badge-low" },
+  { rank:84, name:"Sourcegraph Cody", desc:"AI coding assistant with codebase context", cat:"devops", catLabel:"DevOps", us:87, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:85, name:"Launchable", desc:"AI test intelligence and CI/CD optimization", cat:"devops", catLabel:"DevOps", us:84, india:"Low", indiaBadge:"badge-low" },
+  { rank:86, name:"Trunk.io", desc:"AI code quality and engineering velocity platform", cat:"devops", catLabel:"DevOps", us:83, india:"Low", indiaBadge:"badge-low" },
+  { rank:87, name:"OctoML", desc:"AI model optimization and deployment platform", cat:"devops", catLabel:"DevOps", us:85, india:"Low", indiaBadge:"badge-low" },
+
+  // CUSTOMER EXPERIENCE (8)
+  { rank:88, name:"Intercom (Fin AI)", desc:"AI customer support agent and platform", cat:"cx", catLabel:"CX & Support", us:93, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:89, name:"Zendesk AI", desc:"AI-powered customer service and ticketing", cat:"cx", catLabel:"CX & Support", us:92, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:90, name:"Gladly AI", desc:"AI radically personal customer service platform", cat:"cx", catLabel:"CX & Support", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:91, name:"Forethought AI", desc:"AI customer support triage and deflection", cat:"cx", catLabel:"CX & Support", us:87, india:"Low", indiaBadge:"badge-low" },
+  { rank:92, name:"Assembled", desc:"AI customer support workforce management", cat:"cx", catLabel:"CX & Support", us:85, india:"Low", indiaBadge:"badge-low" },
+  { rank:93, name:"Qualtrics AI", desc:"AI experience management and survey intelligence", cat:"cx", catLabel:"CX & Support", us:91, india:"Minimal", indiaBadge:"badge-minimal" },
+  { rank:94, name:"Medallia AI", desc:"AI customer and employee experience signals", cat:"cx", catLabel:"CX & Support", us:89, india:"Low", indiaBadge:"badge-low" },
+  { rank:95, name:"Ada Support AI", desc:"AI-first customer service automation platform", cat:"cx", catLabel:"CX & Support", us:86, india:"Low", indiaBadge:"badge-low" },
+
+  // DESIGN (5)
+  { rank:96, name:"Runway ML", desc:"AI video and creative generation platform", cat:"design", catLabel:"Design", us:91, india:"Low", indiaBadge:"badge-low" },
+  { rank:97, name:"Figma AI", desc:"AI design generation and prototyping in Figma", cat:"design", catLabel:"Design", us:93, india:"Emerging", indiaBadge:"badge-emerging" },
+  { rank:98, name:"Uizard", desc:"AI UI design from screenshots and text prompts", cat:"design", catLabel:"Design", us:86, india:"Low", indiaBadge:"badge-low" },
+  { rank:99, name:"Framer AI", desc:"AI website design and publishing platform", cat:"design", catLabel:"Design", us:88, india:"Low", indiaBadge:"badge-low" },
+  { rank:100, name:"Locofy.ai", desc:"AI design-to-code conversion platform", cat:"design", catLabel:"Design", us:84, india:"Minimal", indiaBadge:"badge-minimal" },
+];
+
+const catClasses = {
+  marketing: 'cat-marketing',
+  sales: 'cat-sales',
+  productivity: 'cat-productivity',
+  legal: 'cat-legal',
+  hr: 'cat-hr',
+  finance: 'cat-finance',
+  analytics: 'cat-analytics',
+  devops: 'cat-devops',
+  cx: 'cat-cx',
+  design: 'cat-design'
+};
+
+let currentFilter = 'all';
+let currentSearch = '';
+
+function render() {
+  const tbody = document.getElementById('tableBody');
+  const filtered = apps.filter(app => {
+    const matchesCat = currentFilter === 'all' || app.cat === currentFilter;
+    const q = currentSearch.toLowerCase();
+    const matchesSearch = !q || app.name.toLowerCase().includes(q) || app.desc.toLowerCase().includes(q) || app.catLabel.toLowerCase().includes(q);
+    return matchesCat && matchesSearch;
+  });
+  document.getElementById('countSpan').textContent = filtered.length;
+  tbody.innerHTML = filtered.map((app, i) => `
+    <tr style="animation-delay:${i * 0.018}s">
+      <td class="rank">${String(app.rank).padStart(2,'0')}</td>
+      <td>
+        <div class="app-name">${app.name}</div>
+        <div class="app-desc">${app.desc}</div>
+      </td>
+      <td><span class="category-tag ${catClasses[app.cat]}">${app.catLabel}</span></td>
+      <td>
+        <div class="success-bar">
+          <div class="bar-track"><div class="bar-fill ${app.us >= 90 ? 'very-high' : 'high'}" style="width:${app.us}%"></div></div>
+          <span class="score-text">${app.us}%</span>
+        </div>
+      </td>
+      <td><span class="india-badge ${app.indiaBadge}">${app.india}</span></td>
+    </tr>
+  `).join('');
+}
+
+function filter(cat, btn) {
+  currentFilter = cat;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function search(val) {
+  currentSearch = val;
+  render();
+}
+
+render();
+</script>
+</body>
+</html>
