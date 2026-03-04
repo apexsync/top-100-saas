@@ -1,0 +1,2702 @@
+[
+  {
+    "rank": 1,
+    "name": "Jasper AI",
+    "desc": "AI content platform for enterprise marketing teams",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 96,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2021",
+    "hq": "Austin, TX",
+    "website": "https://jasper.ai",
+    "opportunity": "High demand for localized Hindi/regional language content generation.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 2,
+    "name": "Copy.ai",
+    "desc": "AI copywriting for ads, emails, landing pages",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 93,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2020",
+    "hq": "Memphis, TN",
+    "website": "https://copy.ai",
+    "opportunity": "SME market in India is massive for digital marketing automation.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 3,
+    "name": "Persado",
+    "desc": "AI-generated emotional language for marketing",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 91,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2012",
+    "hq": "New York, NY",
+    "website": "https://persado.com",
+    "opportunity": "BFSI sector in India needs emotional engagement tools.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 4,
+    "name": "Anyword",
+    "desc": "Predictive performance copywriting AI",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2013",
+    "hq": "New York, NY",
+    "website": "https://anyword.com",
+    "opportunity": "E-commerce scaling in India requires conversion-testing AI.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 5,
+    "name": "Smartly.io",
+    "desc": "AI-powered social media advertising platform",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 90,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2013",
+    "hq": "Helsinki, Finland",
+    "website": "https://smartly.io",
+    "opportunity": "Instagram/Meta dominance in India makes this a prime target.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 6,
+    "name": "Drift (Salesloft)",
+    "desc": "Conversational marketing & AI buyer engagement",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 89,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2015",
+    "hq": "Boston, MA",
+    "website": "https://drift.com",
+    "opportunity": "Real-estate and EdTech sectors in India are ripe for conversational AI.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 7,
+    "name": "Sprinklr",
+    "desc": "Unified customer experience AI for enterprises",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 87,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2009",
+    "hq": "New York, NY",
+    "website": "https://sprinklr.com",
+    "opportunity": "Indian unicorns (Flipkart, Zomato) already starting to adopt.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 8,
+    "name": "Phrasee",
+    "desc": "AI brand language optimization for email/push",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 84,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2015",
+    "hq": "London, UK",
+    "website": "https://phrasee.co",
+    "opportunity": "Massive scale push notifications for Indian apps (Myntra, Swiggy).",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 9,
+    "name": "Mutiny",
+    "desc": "AI-powered website personalization for B2B",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2018",
+    "hq": "San Francisco, CA",
+    "website": "https://mutinyhq.com",
+    "opportunity": "Indian B2B SaaS (Zoho, Freshworks) ecosystem can use this.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 10,
+    "name": "Lately AI",
+    "desc": "Social media content repurposing and scheduling",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 82,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2014",
+    "hq": "New York, NY",
+    "website": "https://lately.ai",
+    "opportunity": "Content creator economy in India is exploding.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 11,
+    "name": "Crayon",
+    "desc": "AI competitive intelligence platform",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 85,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2015",
+    "hq": "Boston, MA",
+    "website": "https://crayon.co",
+    "opportunity": "High competition in Indian retail & Fintech.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 12,
+    "name": "Pathmatics",
+    "desc": "AI-powered digital ad intelligence",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 83,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2011",
+    "hq": "Santa Monica, CA",
+    "website": "https://pathmatics.com",
+    "opportunity": "Global brands entering India need local ad spend data.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 13,
+    "name": "Stackadapt",
+    "desc": "Programmatic AI advertising platform",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2013",
+    "hq": "Toronto, Canada",
+    "website": "https://stackadapt.com",
+    "opportunity": "Programmatic ad spend is the fastest growing segment in India.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 14,
+    "name": "Contentsquare",
+    "desc": "AI digital experience analytics & optimization",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 87,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2012",
+    "hq": "Paris, France",
+    "website": "https://contentsquare.com",
+    "opportunity": "Mobile-first user base in India needs specific behavioral tracking.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 15,
+    "name": "Zeta Global",
+    "desc": "AI-powered marketing cloud platform",
+    "cat": "marketing",
+    "catLabel": "Marketing",
+    "us": 85,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2007",
+    "hq": "New York, NY",
+    "website": "https://zetaglobal.com",
+    "opportunity": "Enterprise digital transformation in India (Tata, Reliance).",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 16,
+    "name": "Gong.io",
+    "desc": "AI revenue intelligence for sales teams",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 95,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2015",
+    "hq": "Palo Alto, CA",
+    "website": "https://gong.io",
+    "opportunity": "Massive inside-sales teams in Bangalore/Hyderabad need training.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 17,
+    "name": "Chorus.ai (ZoomInfo)",
+    "desc": "Conversation intelligence for sales coaching",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 93,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2015",
+    "hq": "San Francisco, CA",
+    "website": "https://chorus.ai",
+    "opportunity": "Call center efficiency improvement across Indian BPOs.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 18,
+    "name": "Outreach.io",
+    "desc": "AI-powered sales engagement platform",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 92,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2014",
+    "hq": "Seattle, WA",
+    "website": "https://outreach.io",
+    "opportunity": "Direct-to-consumer (D2C) brands in India scaling up.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 19,
+    "name": "Clari",
+    "desc": "AI revenue operations and forecasting",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 91,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2013",
+    "hq": "Sunnyvale, CA",
+    "website": "https://clari.com",
+    "opportunity": "Indian venture-backed startups needing accurate pipeline forecasting.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 20,
+    "name": "Apollo.io",
+    "desc": "AI sales intelligence and prospecting",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 90,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2016",
+    "hq": "San Francisco, CA",
+    "website": "https://apollo.io",
+    "opportunity": "Heavily used by Indian freelancers and agency owners already.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 21,
+    "name": "Salesloft",
+    "desc": "AI-driven sales engagement and pipeline management",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 89,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2011",
+    "hq": "Atlanta, GA",
+    "website": "https://salesloft.com",
+    "opportunity": "Large enterprise sales teams (IT services) adoption.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 22,
+    "name": "People.ai",
+    "desc": "AI revenue productivity platform",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2016",
+    "hq": "San Francisco, CA",
+    "website": "https://people.ai",
+    "opportunity": "Connecting CRM data with activity data for Indian remote sales.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 23,
+    "name": "Aviso AI",
+    "desc": "AI-guided selling and deal management",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 85,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2012",
+    "hq": "Redwood City, CA",
+    "website": "https://aviso.com",
+    "opportunity": "Co-founded by Indian expats; already has development hubs in India.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 24,
+    "name": "Attention.com",
+    "desc": "AI sales assistant for call coaching",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 83,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2021",
+    "hq": "New York, NY",
+    "website": "https://attention.com",
+    "opportunity": "Real-time coaching for high-turnover sales staff in India.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 25,
+    "name": "Momentum.io",
+    "desc": "AI-driven sales signal capture from conversations",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 82,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2020",
+    "hq": "San Francisco, CA",
+    "website": "https://momentum.io",
+    "opportunity": "Slack-first sales cultures in Indian startups.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 26,
+    "name": "Lative",
+    "desc": "AI sales planning and performance intelligence",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 80,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2021",
+    "hq": "Denver, CO",
+    "website": "https://lative.io",
+    "opportunity": "Sales capacity planning for scaling Indian tech firms.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 27,
+    "name": "Kaia.ai",
+    "desc": "Real-time AI meeting assistant for sales",
+    "cat": "sales",
+    "catLabel": "Sales",
+    "us": 81,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://kaia.ai",
+    "opportunity": "Video-call dominance for Indian overseas sales (IT/BPO).",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 28,
+    "name": "Notion AI",
+    "desc": "AI writing, summarizing & knowledge management",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 94,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2013",
+    "hq": "San Francisco, CA",
+    "website": "https://notion.so",
+    "opportunity": "The 'Operating System' for modern Indian knowledge workers.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 29,
+    "name": "Otter.ai",
+    "desc": "AI meeting transcription and notes",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 92,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2016",
+    "hq": "Mountain View, CA",
+    "website": "https://otter.ai",
+    "opportunity": "Needs localized accent support for Indian English transcription.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 30,
+    "name": "Fireflies.ai",
+    "desc": "AI meeting assistant with search & collaboration",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 90,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2018",
+    "hq": "San Francisco, CA",
+    "website": "https://fireflies.ai",
+    "opportunity": "Founded by Indian founders; strong community adoption in India.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 31,
+    "name": "Mem.ai",
+    "desc": "AI-powered personal knowledge management",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 85,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "Los Altos, CA",
+    "website": "https://mem.ai",
+    "opportunity": "Self-organizing notes for Indian research & developer community.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 32,
+    "name": "Reclaim.ai",
+    "desc": "AI calendar optimization for time management",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 84,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "Portland, OR",
+    "website": "https://reclaim.ai",
+    "opportunity": "Focus-time protection in high-meeting Indian corporate cultures.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 33,
+    "name": "Motion",
+    "desc": "AI project & task scheduling automation",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "San Francisco, CA",
+    "website": "https://usemotion.com",
+    "opportunity": "Automated project management for Indian creative agencies.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 34,
+    "name": "Taskade",
+    "desc": "AI-powered task management and workspaces",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 83,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2017",
+    "hq": "New York, NY",
+    "website": "https://taskade.com",
+    "opportunity": "AI-agents integration for Indian remote teams.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 35,
+    "name": "Coda AI",
+    "desc": "AI docs and workflows in one platform",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 87,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2014",
+    "hq": "Mountain View, CA",
+    "website": "https://coda.io",
+    "opportunity": "High usage in Indian product management circles.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 36,
+    "name": "Grain",
+    "desc": "AI meeting recording with highlights and insights",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 82,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2018",
+    "hq": "San Francisco, CA",
+    "website": "https://grain.com",
+    "opportunity": "Capturing customer insights for Indian startup founders.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 37,
+    "name": "Read AI",
+    "desc": "AI meeting summaries, transcripts & engagement scores",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 81,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2021",
+    "hq": "Seattle, WA",
+    "website": "https://read.ai",
+    "opportunity": "Engagement scores for high-stakes Indian board meetings.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 38,
+    "name": "Superhuman AI",
+    "desc": "AI email productivity and inbox management",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 89,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2016",
+    "hq": "San Francisco, CA",
+    "website": "https://superhuman.com",
+    "opportunity": "Veblen-good for Indian elite tech leadership.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 39,
+    "name": "Rays by Slack AI",
+    "desc": "AI-powered search and summaries in Slack",
+    "cat": "productivity",
+    "catLabel": "Productivity",
+    "us": 91,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://slack.com",
+    "opportunity": "Immediate productivity gain for large Indian Slack-using corps.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 40,
+    "name": "Ironclad",
+    "desc": "AI contract lifecycle management for enterprises",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 92,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2014",
+    "hq": "San Francisco, CA",
+    "website": "https://ironcladapp.com",
+    "opportunity": "Complex Indian compliance/legal landscape needs this automation.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 41,
+    "name": "Harvey AI",
+    "desc": "AI legal research and document drafting",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 90,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://harvey.ai",
+    "opportunity": "Tier-1 Indian law firms starting to test LLMs for due diligence.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 42,
+    "name": "Kira Systems",
+    "desc": "AI contract review and due diligence",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2011",
+    "hq": "Toronto, Canada",
+    "website": "https://kirasystems.com",
+    "opportunity": "Indian M&A market expansion requires fast contract review.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 43,
+    "name": "Luminance",
+    "desc": "AI-powered legal document analysis",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2016",
+    "hq": "London, UK",
+    "website": "https://luminance.com",
+    "opportunity": "Cambridge-spinout tech for Indian multinational corporations.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 44,
+    "name": "Clio (AI features)",
+    "desc": "AI legal practice management software",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 91,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2008",
+    "hq": "Vancouver, Canada",
+    "website": "https://clio.com",
+    "opportunity": "Massive market of independent Indian lawyers needs affordable SaaS.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 45,
+    "name": "LexisNexis AI",
+    "desc": "AI legal research and analytics platform",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 93,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "1970",
+    "hq": "New York, NY",
+    "website": "https://lexisnexis.com",
+    "opportunity": "Local Indian case-law databases integration is key.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 46,
+    "name": "Disco",
+    "desc": "AI-powered legal discovery and review",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2012",
+    "hq": "Austin, TX",
+    "website": "https://csdisco.com",
+    "opportunity": "Large-scale litigation in India (telecom, land) can be sped up.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 47,
+    "name": "Spellbook",
+    "desc": "AI contract drafting and review for lawyers",
+    "cat": "legal",
+    "catLabel": "Legal",
+    "us": 84,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2022",
+    "hq": "St. John's, Canada",
+    "website": "https://spellbook.legal",
+    "opportunity": "MSME legal contract drafting in India.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 48,
+    "name": "Eightfold AI",
+    "desc": "AI talent intelligence platform",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 91,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2016",
+    "hq": "Santa Clara, CA",
+    "website": "https://eightfold.ai",
+    "opportunity": "Indian IT giants (TCS, Infosys) can optimize bench management.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 49,
+    "name": "HireVue",
+    "desc": "AI video interviewing and hiring assessments",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 89,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2004",
+    "hq": "Salt Lake City, UT",
+    "website": "https://hirevue.com",
+    "opportunity": "Volume hiring in Indian retail and BFSI.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 50,
+    "name": "Beamery",
+    "desc": "AI talent lifecycle management",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2013",
+    "hq": "London, UK",
+    "website": "https://beamery.com",
+    "opportunity": "Strategic talent mapping for Indian high-growth startups.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 51,
+    "name": "Phenom AI",
+    "desc": "AI talent experience platform",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 88,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2010",
+    "hq": "Horsham, PA",
+    "website": "https://phenom.com",
+    "opportunity": "Careers-page optimization for Indian employer branding.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 52,
+    "name": "Lattice AI",
+    "desc": "AI performance management and people analytics",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 90,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2015",
+    "hq": "San Francisco, CA",
+    "website": "https://lattice.com",
+    "opportunity": "Moving away from legacy P-system in Indian corporates.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 53,
+    "name": "Leapsome AI",
+    "desc": "AI employee engagement and performance platform",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2016",
+    "hq": "Berlin, Germany",
+    "website": "https://leapsome.com",
+    "opportunity": "Remote employee engagement for Indian global teams.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 54,
+    "name": "Visier",
+    "desc": "AI people analytics and workforce intelligence",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2010",
+    "hq": "Vancouver, Canada",
+    "website": "https://visier.com",
+    "opportunity": "Attrition prediction in high-churn Indian BPO sectors.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 55,
+    "name": "Pymetrics",
+    "desc": "AI-based soft skills assessment for hiring",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 85,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2013",
+    "hq": "New York, NY",
+    "website": "https://pymetrics.ai",
+    "opportunity": "Campus hiring in India needs diverse cognitive testing.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 56,
+    "name": "Paradox (Olivia)",
+    "desc": "AI recruiting assistant chatbot",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2016",
+    "hq": "Scottsdale, AZ",
+    "website": "https://paradox.ai",
+    "opportunity": "WhatsApp-based recruiting assistant for Indian blue-collar workers.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 57,
+    "name": "Workday AI",
+    "desc": "AI-embedded HR and finance enterprise suite",
+    "cat": "hr",
+    "catLabel": "HR & Talent",
+    "us": 92,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2005",
+    "hq": "Pleasanton, CA",
+    "website": "https://workday.com",
+    "opportunity": "Mainstay for Indian MNCs subsidiary management.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 58,
+    "name": "Cube",
+    "desc": "AI-powered FP&A automation for finance teams",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2018",
+    "hq": "New York, NY",
+    "website": "https://cubesoftware.com",
+    "opportunity": "Replacing Excel-heavy finance labs in Indian firms.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 59,
+    "name": "Vena AI",
+    "desc": "AI financial planning and analytics",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2011",
+    "hq": "Toronto, Canada",
+    "website": "https://venasolutions.com",
+    "opportunity": "Mid-market Indian companies digital finance pivot.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 60,
+    "name": "Planful AI",
+    "desc": "AI continuous financial planning platform",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2010",
+    "hq": "Redwood City, CA",
+    "website": "https://planful.com",
+    "opportunity": "Agile budgeting for volatile Indian market conditions.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 61,
+    "name": "Mosaic Tech",
+    "desc": "AI strategic finance platform for growth companies",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 85,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "San Diego, CA",
+    "website": "https://mosaic.tech",
+    "opportunity": "Series B/C startups in India needing real-time dashboards.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 62,
+    "name": "Ramp AI",
+    "desc": "AI spend management and corporate cards",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 91,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "New York, NY",
+    "website": "https://ramp.com",
+    "opportunity": "Corporate card market in India is under-penetrated.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 63,
+    "name": "Brex AI",
+    "desc": "AI finance platform for startups and enterprises",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 90,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2017",
+    "hq": "San Francisco, CA",
+    "website": "https://brex.com",
+    "opportunity": "Indian venture debt and equity ecosystems synergy.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 64,
+    "name": "DataRails",
+    "desc": "AI FP&A automation in Excel/Google Sheets",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 84,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2015",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://datarails.com",
+    "opportunity": "Excel is the king in Indian finance; this is the perfect bridge.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 65,
+    "name": "Trullion",
+    "desc": "AI accounting automation and audit management",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 83,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "New York, NY",
+    "website": "https://trullion.com",
+    "opportunity": "Audit season in India (April-Sept) needs AI assistance.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 66,
+    "name": "Stampli",
+    "desc": "AI-driven accounts payable automation",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2015",
+    "hq": "Mountain View, CA",
+    "website": "https://stampli.com",
+    "opportunity": "Vendor management for Indian manufacturing hubs.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 67,
+    "name": "Numeric",
+    "desc": "AI-powered accounting close and reporting",
+    "cat": "finance",
+    "catLabel": "Finance",
+    "us": 82,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2020",
+    "hq": "San Francisco, CA",
+    "website": "https://numeric.io",
+    "opportunity": "Speeding up the monthly close for Indian retail chains.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 68,
+    "name": "Alteryx AI",
+    "desc": "AI-powered data analytics and automation",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 91,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "1997",
+    "hq": "Irvine, CA",
+    "website": "https://alteryx.com",
+    "opportunity": "Used by Indian GICs (Global In-house Centers).",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 69,
+    "name": "Tableau AI (Pulse)",
+    "desc": "AI-embedded business intelligence",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 92,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2003",
+    "hq": "Seattle, WA",
+    "website": "https://tableau.com",
+    "opportunity": "Standard BI for Indian corporate reporting.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 70,
+    "name": "ThoughtSpot",
+    "desc": "AI search and analytics platform",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 90,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2012",
+    "hq": "Mountain View, CA",
+    "website": "https://thoughtspot.com",
+    "opportunity": "Founded by Indian founders; strong HQ presence in Bangalore.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 71,
+    "name": "Sisense AI",
+    "desc": "AI-powered embedded analytics platform",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2004",
+    "hq": "New York, NY",
+    "website": "https://sisense.com",
+    "opportunity": "Indian B2B SaaS companies embedding analytics in their products.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 72,
+    "name": "Domo",
+    "desc": "AI business intelligence for enterprises",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2010",
+    "hq": "American Fork, UT",
+    "website": "https://domo.com",
+    "opportunity": "Executive dashboards for Indian family-owned conglomerates.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 73,
+    "name": "Pecan AI",
+    "desc": "Predictive AI analytics for business users",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 85,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2018",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://pecan.ai",
+    "opportunity": "No-code predictive modeling for Indian marketing managers.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 74,
+    "name": "Amplitude AI",
+    "desc": "AI product analytics and user behavior",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 91,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2012",
+    "hq": "San Francisco, CA",
+    "website": "https://amplitude.com",
+    "opportunity": "Favorite of Indian product-led growth (PLG) startups.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 75,
+    "name": "Mixpanel AI",
+    "desc": "AI-powered event analytics for products",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 89,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2009",
+    "hq": "San Francisco, CA",
+    "website": "https://mixpanel.com",
+    "opportunity": "De-facto standard for Indian consumer app optimization.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 76,
+    "name": "Heap AI",
+    "desc": "AI autocapture analytics for digital products",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2013",
+    "hq": "San Francisco, CA",
+    "website": "https://heap.io",
+    "opportunity": "Indian fintech conversion funnel optimization.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 77,
+    "name": "Sigma Computing",
+    "desc": "AI cloud analytics for business teams",
+    "cat": "analytics",
+    "catLabel": "Analytics",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2014",
+    "hq": "San Francisco, CA",
+    "website": "https://sigmacomputing.com",
+    "opportunity": "Snowflake/Databricks users in India need this spreadsheet-interface.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 78,
+    "name": "GitHub Copilot",
+    "desc": "AI code completion and generation for developers",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 95,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2021",
+    "hq": "San Francisco, CA",
+    "website": "https://github.com",
+    "opportunity": "India has the world's largest developer base on GitHub.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 79,
+    "name": "Tabnine",
+    "desc": "AI code completion across IDEs",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 90,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2013",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://tabnine.com",
+    "opportunity": "Privacy-focused Indian firms need self-hosted AI coding.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 80,
+    "name": "Harness AI",
+    "desc": "AI software delivery and DevOps automation",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 89,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2017",
+    "hq": "San Francisco, CA",
+    "website": "https://harness.io",
+    "opportunity": "Indian IT service firms using this to scale CI/CD for clients.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 81,
+    "name": "LinearB",
+    "desc": "AI engineering metrics and workflow automation",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2018",
+    "hq": "Los Angeles, CA",
+    "website": "https://linearb.io",
+    "opportunity": "Engineering management maturity in Indian product companies.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 82,
+    "name": "Swimm AI",
+    "desc": "AI documentation for engineering codebases",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 83,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "New York, NY",
+    "website": "https://swimm.io",
+    "opportunity": "High developer churn in Indian tech needs automated docs.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 83,
+    "name": "Mobb.ai",
+    "desc": "AI automated vulnerability remediation",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 82,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2022",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://mobb.ai",
+    "opportunity": "Cybersecurity priority for Indian government & banking.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 84,
+    "name": "Sourcegraph Cody",
+    "desc": "AI coding assistant with codebase context",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 87,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2013",
+    "hq": "San Francisco, CA",
+    "website": "https://sourcegraph.com",
+    "opportunity": "Legacy codebase modernization for Indian IT services.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 85,
+    "name": "Launchable",
+    "desc": "AI test intelligence and CI/CD optimization",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 84,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "San Jose, CA",
+    "website": "https://launchableinc.com",
+    "opportunity": "Testing time reduction for Indian auto/manufacturing tech.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 86,
+    "name": "Trunk.io",
+    "desc": "AI code quality and engineering velocity platform",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 83,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2021",
+    "hq": "San Francisco, CA",
+    "website": "https://trunk.io",
+    "opportunity": "Velocity tracking for Indian remote developer cohorts.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 87,
+    "name": "OctoML",
+    "desc": "AI model optimization and deployment platform",
+    "cat": "devops",
+    "catLabel": "DevOps",
+    "us": 85,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2019",
+    "hq": "Seattle, WA",
+    "website": "https://octoml.ai",
+    "opportunity": "Indian companies deploying open-source LLMs need optimization.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 88,
+    "name": "Intercom (Fin AI)",
+    "desc": "AI customer support agent and platform",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 93,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2011",
+    "hq": "San Francisco, CA",
+    "website": "https://intercom.com",
+    "opportunity": "Indian D2C brands adopting AI-first support.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 89,
+    "name": "Zendesk AI",
+    "desc": "AI-powered customer service and ticketing",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 92,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2007",
+    "hq": "San Francisco, CA",
+    "website": "https://zendesk.com",
+    "opportunity": "Standard support suite for Indian e-commerce.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 90,
+    "name": "Gladly AI",
+    "desc": "AI radically personal customer service platform",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2014",
+    "hq": "San Francisco, CA",
+    "website": "https://gladly.com",
+    "opportunity": "Luxury retail in India needs personalized AI concierge.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 91,
+    "name": "Forethought AI",
+    "desc": "AI customer support triage and deflection",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 87,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2017",
+    "hq": "San Francisco, CA",
+    "website": "https://forethought.ai",
+    "opportunity": "High-volume ticket deflection for Indian logistics/delivery apps.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 92,
+    "name": "Assembled",
+    "desc": "AI customer support workforce management",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 85,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2018",
+    "hq": "San Francisco, CA",
+    "website": "https://assembled.com",
+    "opportunity": "Workforce planning for massive Indian call centers.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 93,
+    "name": "Qualtrics AI",
+    "desc": "AI experience management and survey intelligence",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 91,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2002",
+    "hq": "Provo, UT",
+    "website": "https://qualtrics.com",
+    "opportunity": "Employee experience management for Indian tech campuses.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 94,
+    "name": "Medallia AI",
+    "desc": "AI customer and employee experience signals",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 89,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2001",
+    "hq": "San Francisco, CA",
+    "website": "https://medallia.com",
+    "opportunity": "Capturing regional feedback in 20+ Indian languages.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 95,
+    "name": "Ada Support AI",
+    "desc": "AI-first customer service automation platform",
+    "cat": "cx",
+    "catLabel": "CX & Support",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2016",
+    "hq": "Toronto, Canada",
+    "website": "https://ada.cx",
+    "opportunity": "Growth in Indian fintech user-base requires rapid support scale.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 96,
+    "name": "Runway ML",
+    "desc": "AI video and creative generation platform",
+    "cat": "design",
+    "catLabel": "Design",
+    "us": 91,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2018",
+    "hq": "New York, NY",
+    "website": "https://runwayml.com",
+    "opportunity": "Bollywood & Indian ad-filmmaking utilizing Generative Video.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 97,
+    "name": "Figma AI",
+    "desc": "AI design generation and prototyping in Figma",
+    "cat": "design",
+    "catLabel": "Design",
+    "us": 93,
+    "india": "Emerging",
+    "indiaBadge": "badge-emerging",
+    "founded": "2012",
+    "hq": "San Francisco, CA",
+    "website": "https://figma.com",
+    "opportunity": "Largest design community growth outside the US is in India.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 98,
+    "name": "Uizard",
+    "desc": "AI UI design from screenshots and text prompts",
+    "cat": "design",
+    "catLabel": "Design",
+    "us": 86,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2017",
+    "hq": "Copenhagen, Denmark",
+    "website": "https://uizard.io",
+    "opportunity": "Indian entrepreneurs prototyping their 'next big app'.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 99,
+    "name": "Framer AI",
+    "desc": "AI website design and publishing platform",
+    "cat": "design",
+    "catLabel": "Design",
+    "us": 88,
+    "india": "Low",
+    "indiaBadge": "badge-low",
+    "founded": "2014",
+    "hq": "Amsterdam, Netherlands",
+    "website": "https://framer.com",
+    "opportunity": "Portfolio-building for Indian freelance design economy.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  },
+  {
+    "rank": 100,
+    "name": "Locofy.ai",
+    "desc": "AI design-to-code conversion platform",
+    "cat": "design",
+    "catLabel": "Design",
+    "us": 84,
+    "india": "Minimal",
+    "indiaBadge": "badge-minimal",
+    "founded": "2021",
+    "hq": "Singapore",
+    "website": "https://locofy.ai",
+    "opportunity": "Bridging the gap between Indian designers and developers.",
+    "techStack": "React, Node.js, OpenAI API, PostgreSQL, Redis",
+    "buildGuide": [
+      "1. Infrastructure: Set up a scalable cloud environment (AWS/GCP).",
+      "2. Core AI: Integrate LLMs using LangChain for sophisticated prompt orchestration.",
+      "3. Data Management: Implement vector databases (Pinecone) for semantic memory.",
+      "4. Frontend: Build a responsive dashboard focusing on user-centric workflows."
+    ],
+    "indiaIntegration": [
+      "1. Localize: Add support for Hindi and 5+ regional languages.",
+      "2. Payments: Integrate Razorpay or UPI for seamless INR transactions.",
+      "3. Distribution: Partner with local SME aggregators and consultancy firms.",
+      "4. Compliance: Ensure data residency in line with upcoming Indian DPDP Act."
+    ]
+  }
+]

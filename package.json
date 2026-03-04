@@ -1,0 +1,25 @@
+{
+  "name": "top-100-saas",
+  "version": "1.0.0",
+  "main": "enrich_data.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "node api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apexsync/top-100-saas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apexsync/top-100-saas/issues"
+  },
+  "homepage": "https://github.com/apexsync/top-100-saas#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
